@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "562235065646",
+    "project_id": "iifym-dubai",
+    "storage_bucket": "iifym-dubai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562235065646:android:35d2acbe75f2b1c2f9a6bf",
+        "android_client_info": {
+          "package_name": "ae.iifym.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562235065646-h1kd325ta042sghedmhjti195r7konk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqnDf22cKVWsBjUkNev6ZY0dfzaLq8z08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562235065646-h1kd325ta042sghedmhjti195r7konk0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "562235065646-7ip0hqrsrtf5qu6cbq9hopnb4v3jue8n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iifym.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562235065646:android:1a94b269e583e7e7f9a6bf",
+        "android_client_info": {
+          "package_name": "com.iifym.ae"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562235065646-h1kd325ta042sghedmhjti195r7konk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqnDf22cKVWsBjUkNev6ZY0dfzaLq8z08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562235065646-h1kd325ta042sghedmhjti195r7konk0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "562235065646-7ip0hqrsrtf5qu6cbq9hopnb4v3jue8n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iifym.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
